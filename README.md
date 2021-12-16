@@ -8,3 +8,5 @@ Here the link of the data source:
 In the 'final_project.ipynb', you can follow the instruction of the notebook to get access to the MyAnimeList API, and save it into a csv file.
 The 'anime.csv' has the various information of an anime such as id, date, score, title, rank, popularity, etc.
 Use the same id in the 'anime.csv', you can find the abstarct of each anime in the 'animes_with_abstract.csv'.
+
+I only get time to finished the Data Collection part. Sorry about that.
