@@ -1,5 +1,5 @@
 # SI507_FINALPROJ
-This project include the datasets of animes from MyAnnimeList and Bangumi.
+This project include the datasets of animes from MyAnnimeList and Bangumi. No special package is used.
 Here the link of the data source:
   1. https://www.kaggle.com/marlesson/myanimelist-dataset-animes-profiles-reviews/version/1?select=animes.csv CSV or JSON file you haven’t used before with
   2. https://myanimelist.net/apiconfig/references/authorization#client-registration Web API you haven’t used before that requires OAuth
